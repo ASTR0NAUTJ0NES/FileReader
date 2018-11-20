@@ -1,7 +1,7 @@
 # FileReader
 
 ## Description 
-	- Simple Java Program which shows how you can manipulate user entered numbers and do calculations on them and prints out the returned calculations.
+	- Simple Java Program which shows how to manipulate and read files in.
 ## Version 
 	- 1.0
 ## Author 
